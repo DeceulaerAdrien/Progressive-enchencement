@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    color:#420420;
+    width: 90%;
+    margin: auto;
+    background:linear-gradient(#a3c483,#326d58); 
+    background-image: url(../../Images/field.png);
+    background-size: cover;
+    background-position: bottom right; 
+}
+a:visited {
+    color: rgb(255, 0, 13);
+}
+a:hover {
+    background: orange;
+}
+table{
+    caption-side: bottom;
+}
+blockquote{
+    max-width:50%;
+    margin: auto;
+    font-size: 160%;
+    background: slategray;
+    border-left: 3px firebrick solid;
+    padding: 10px 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.citation {
+    font-style: italic;
+}
+.villagers {
+    border-left: darkgreen;
+}
