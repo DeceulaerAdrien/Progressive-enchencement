@@ -79,14 +79,58 @@ h1{
     color: white;
 }
 
+#Qualities h2 {
+    font-size: 1.6em;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
 #Quality_1_2 {
     display: flex;
 }
 
-#1 {
+#Quality1 {
     margin-left: 200px;
     margin-right: 30px;
     width: 1260px;
+}
+
+#Quality2 {
+    margin-right: 200px;
+    width: 1260px;
+}
+
+#Qualitie_3_4{
+    display: flex;
+    padding-bottom: 30px;
+}
+
+#Quality3{
+    margin-left: 200px;
+    margin-right: 30px;
+    width: 1260px;
+}
+
+#Quality4{
+    margin-right: 200px;
+    width: 1260px;
+}
+
+.second_withe_line{
+    margin-top: -30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#partnaire{
+    background-color: #eeeeee;
+}
+
+#partnaire img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 button {
