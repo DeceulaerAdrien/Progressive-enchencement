@@ -160,6 +160,7 @@ h1 {
 
 footer {
     display: block;
+    clear: both;
 }
 
 #footer a {
