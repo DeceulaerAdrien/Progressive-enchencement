@@ -61,7 +61,7 @@ margin-left: 700px;
     display: block;
 }
 
-#Text_on_white {
+.Text_on_white {
     text-align: center;
     background-color: white;
     padding-top: 30px;
