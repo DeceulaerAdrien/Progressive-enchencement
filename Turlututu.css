@@ -34,7 +34,7 @@ body {
     padding-bottom: 20px;
 }
 
-#banner .lunettes_man{
+#banner .lunettes_man {
     float: left;
     margin-top: 20px;
     margin-left: 200px;
@@ -56,7 +56,7 @@ margin-left: 700px;
     margin-top:30px;
 }
 
-#banner .cache_misère {
+.cache_misère {
     clear: left;
     display: block;
 }
@@ -69,7 +69,7 @@ margin-left: 700px;
 }
 
 
-h1{
+h1 {
     font-size: 1.6em;
 }
 
@@ -101,29 +101,29 @@ h1{
     width: 1260px;
 }
 
-#Qualitie_3_4{
+#Qualitie_3_4 {
     display: flex;
     padding-bottom: 30px;
 }
 
-#Quality3{
+#Quality3 {
     margin-left: 200px;
     margin-right: 30px;
     width: 1260px;
 }
 
-#Quality4{
+#Quality4 {
     margin-right: 200px;
     width: 1260px;
 }
 
-.second_withe_line{
+.second_withe_line {
     margin-top: -30px;
     margin-bottom: 10px;
     text-align: center;
 }
 
-#partnaire{
+#partnaire {
     background-color: #eeeeee;
 }
 
@@ -131,6 +131,47 @@ h1{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+#Buttons_bot{
+    display: flex;
+    float: left;
+    margin-left: 640px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.blue {
+    background-color: #165882;
+}
+
+#footer {
+    background-color: #333333;
+    display: flex;
+    color: white;
+    font-size: 1em;
+    padding-bottom: 20px;
+}
+
+.home {
+    margin-left: 20px;
+}
+
+footer {
+    display: block;
+}
+
+#footer a {
+    padding-top: 10px;
+    display: inline;
+    color: white;
+    text-decoration: none;
+}
+
+#footer p {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
 }
 
 button {
