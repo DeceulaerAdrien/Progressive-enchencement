@@ -10,7 +10,7 @@ body {
     display: flex;
     color: white;
     font-size: 1em;
-    padding-left: 100x;
+    padding-left: 100px;
 }
 
 #navigation a {
@@ -54,6 +54,7 @@ margin-left: 700px;
 #banner button {
     margin-left: 775px;
     margin-top:30px;
+    margin-bottom: 35px;
 }
 
 .cache_misère {
@@ -64,8 +65,8 @@ margin-left: 700px;
 .Text_on_white {
     text-align: center;
     background-color: white;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 5px;
+    padding-bottom: 10px;
 }
 
 
