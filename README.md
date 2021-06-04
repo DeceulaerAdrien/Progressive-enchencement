@@ -13,7 +13,7 @@ Modèle graphique d'un site pour un premier entrainement HTML et CSS
 
 Executez le dossier sur un serveur local et acceder a votre localhost
 
-![](https://raw.githubusercontent.com/DeceulaerAdrien/react-pomodoro/main/assets/pomodoro.PNG)
+![](https://raw.githubusercontent.com/DeceulaerAdrien/Progressive-enchencement/main/Assets/Capture.PNG)
 
 ## Démarrage
 
@@ -28,7 +28,7 @@ Liste des versions : [Cliquer pour afficher](https://github.com/DeceulaerAdrien/
 ## Déploiement
 
 Le projet est déployer sur GitHub Page
-[Turlututu](https://pedantic-panini-61697f.netlify.app)
+[Turlututu](https://deceulaeradrien.github.io/Progressive-enchencement/)
 
 ## Auteurs
 
