@@ -13,7 +13,7 @@ Modèle graphique d'un site pour un premier entrainement HTML et CSS
 
 Executez le dossier sur un serveur local et acceder a votre localhost
 
-![](https://raw.githubusercontent.com/DeceulaerAdrien/Progressive-enchencement/main/Assets/Capture.PNG)
+![](https://raw.githubusercontent.com/DeceulaerAdrien/Turlututu/main/Assets/Capture.PNG)
 
 ## Démarrage
 
