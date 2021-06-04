@@ -28,7 +28,7 @@ Liste des versions : [Cliquer pour afficher](https://github.com/DeceulaerAdrien/
 ## Déploiement
 
 Le projet est déployer sur GitHub Page
-[Turlututu](https://deceulaeradrien.github.io/Progressive-enchencement/)
+[Turlututu](https://deceulaeradrien.github.io/Turlututu/)
 
 ## Auteurs
 
